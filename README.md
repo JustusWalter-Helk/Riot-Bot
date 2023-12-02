@@ -1,3 +1,4 @@
+⚠️ This is very bad code ⚠️
 # Riot-Games-Bot
 
 A small bot written in TypeScript with node.js and discord.js to send the latest news from https://www.riotgames.com/en/news directly into a discord channel!
